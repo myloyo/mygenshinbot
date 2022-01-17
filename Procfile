@@ -1,0 +1,1 @@
+worker: python my1tgbot_bot.py $PORT
